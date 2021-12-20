@@ -1,16 +1,18 @@
-### Hi there 👋
+**Hello, Meru here!**   
+**Welcome to my README.md!**  
 
-<!--
-**M-eru/M-eru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an individual on the internet who likes to code (kind of).  
+I code when I want to, and just learn along the way (I think).
 
-Here are some ideas to get you started:
+--  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Quirks:**
+- Familar with Python
+- Learning HTML and JS
+- Likes playing games
+- Coffee is better than tea
+
+--
+
+**Collaborations:**
+- Contact me [`here`](mailto:mmeru.dev@gmail.com)
